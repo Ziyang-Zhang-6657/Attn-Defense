@@ -1,0 +1,27 @@
+[
+    {
+        "question": "who sang smoke gets in your eyes first?",
+        "context": "<title> Smoke Gets in Your Eyes </title> <P> `` Smoke Gets in Your Eyes '' is a show tune written by American composer Jerome Kern and lyricist Otto Harbach for their 1933 musical Roberta . The song was sung in the original Broadway show by Tamara Drasin . Its first recorded performance was by Gertrude Niesen , who recorded the song with orchestral direction from Ray Sinatra , Frank Sinatra 's second cousin , on October 13 , 1933 . Niesen 's recording of the song was released by Victor , catalog # VE B 24454 , with the B - side , `` Jealousy '' , featuring Isham Jones and his Orchestra . </P>",
+        "answer": "Tamara Drasin"
+    },
+    {
+        "question": "when did red dead redemption 1 come out?",
+        "context": "<P> Red Dead Redemption is a Western - themed action - adventure video game developed by Rockstar San Diego and published by Rockstar Games . It was released for PlayStation 3 and Xbox 360 consoles in May 2010 . It is the second title in the Red Dead franchise , after 2004 's Red Dead Revolver . The game , set during the decline of the American frontier in the year 1911 , follows John Marston , a former outlaw whose wife and son are taken hostage by the government in ransom for his services as a hired gun . Having no other choice , Marston sets out to bring the three members of his former gang to justice . </P>",
+        "answer": "May 2010"
+    },
+    {
+        "question": "who is next in line to inherit the british throne?",
+        "context": "<title> Succession to the British throne </title> <P> Queen Elizabeth II is the sovereign , and her heir apparent is her eldest son , Charles , Prince of Wales . Next in line after him is Prince William , Duke of Cambridge , the Prince of Wales 's elder son . Third in line is Prince George , the son of the Duke of Cambridge , followed by his sister , Princess Charlotte . Fifth in line is Prince Henry of Wales , the younger son of the Prince of Wales . Sixth in line is Prince Andrew , Duke of York , the Queen 's second - eldest son . Any of the first six in line marrying without the sovereign 's consent would be disqualified from succession . </P>",
+        "answer": "Charles , Prince of Wales"
+    },
+    {
+        "question": "mainland greece is a body of land with water on three sides called?",
+        "context": "<title> Geography of Greece </title> <P> The country consists of a mountainous , peninsular mainland jutting out into the Mediterranean Sea at the southernmost tip of the Balkans , and two smaller peninsulas projecting from it : the Chalkidice and the Peloponnese , which is joined to the mainland by the Isthmus of Corinth . Greece also has many islands , of various sizes , the largest being Crete , Euboea , Rhodes and Corfu ; groups of smaller islands include the Dodecanese and the Cyclades . According to the CIA World Factbook , Greece has 13,676 kilometres ( 8,498 mi ) of coastline , the largest in the Mediterranean Basin . </P>",
+        "answer": "peninsula"
+    },
+    {
+        "question": "who does the voice for belle in beauty and the beast?",
+        "context": "<P> Belle is a fictional character who appears in Walt Disney Pictures ' animated feature film Beauty and the Beast ( 1991 ) . Originally voiced by American actress and singer Paige O'Hara , Belle is the non-conforming daughter of an inventor who yearns to abandon her predictable village life in return for adventure . When her father Maurice is imprisoned by a cold - hearted beast , Belle offers him her own freedom in exchange for her father 's , and eventually learns to love the Beast despite his unsightly outward appearance . </P>",
+        "answer": "the American actress and singer Paige O'Hara"
+    }
+]
